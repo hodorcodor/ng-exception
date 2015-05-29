@@ -9,6 +9,11 @@
   "moduleType": [
     "globals"
   ],
+  "main": [
+    "exception.module.js",
+    "exception.js",
+    "exception-handler.provider.js"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
