@@ -1,0 +1,23 @@
+{
+  "name": "ng-exception",
+  "version": "0.0.0",
+  "authors": [
+    "John Papa",
+    "svenmeys <sven.meys@gmail.com>"
+  ],
+  "description": "Exception block based on papa john's hot towel generator. Packaged and bowerised",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ui-logger": "hodorcodor/ui-logger#~0.0.2"
+  }
+}
